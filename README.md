@@ -20,3 +20,5 @@ Dynamic selection support
 Dark theme with Spotify-inspired design
 Smooth and clean visual hierarchy
 
+https://github.com/PranavGarg2005/Spotify-Dashboard/blob/main/snapshot%20of%20dashboard.png
+
